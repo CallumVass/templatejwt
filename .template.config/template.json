@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Callum Vass",
+    "classifications": ["Web"],
+    "name": "Starter Web JWT",
+    "identity": "StarterWebJwt",
+    "shortName": "starterwebjwt",
+    "tags": {
+        "language": "C#"
+    },
+    "sourceName": "StarterWebJwt",
+    "preferNameDirectory": true
+}
